@@ -1,3 +1,5 @@
+//Daniela Nohemy Divas Carrillo
+
 #include <iostream>
 using namespace std;
 
@@ -7,11 +9,13 @@ int main() {
     cout << "Ingrese la contraseña: ";
     cin >> password;
 
-    if (password == "1234") {
-        cout << "Correcto" << endl;
-    } else {
-        cout << "Incorrecto" << endl;
+    while (password != "1234") {
+        cout << "Error: contraseña incorrecta" << endl;
+        cout << "Intente nuevamente: ";
+        cin >> password;
     }
+
+    cout << "Acceso permitido" << endl;
 
     return 0;
 }
