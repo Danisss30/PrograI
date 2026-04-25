@@ -1,0 +1,6 @@
+Priscila,Apple Pencil,2,400,800,56,744,Efectivo
+Daniela,Audifonos USB,1,300,300,0,300,Tarjeta
+Mariana,Camara USB,3,250,750,37.5,712.5,Transferencia
+Noe,Mouse,4,100,400,0,400,Tarjeta
+Amilcar,Teclado,5,150,750,52.5,697.5,Efectivo
+Ruth,Celular,1,200,200,0,200,Transferencia
